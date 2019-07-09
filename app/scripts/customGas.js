@@ -469,10 +469,17 @@ to:         '0xcc7d26d8ea6281bb363c8448515f2c61f7bc19f0',
 gasLimit:   250000,
 data:       '',
 msg:        'ABCH Token Sale. - https://abbcfoundation.com'
-},{
+},
+{
 // TOK (TOK) Token Sale
 to:         '0x9a49f02e128a8e989b443a8f94843c0918bf45e7',
 gasLimit:   60000,
 data:       '',
 msg:        'TOK token sale https://www.tokok.com/'
-}]
+}
+// Salemcash Token sale
+to:         '0xC907d1F8f1Ab246329F99f4D57df1d25f38Bda4C',
+gasLimit:   200000,
+data:       '',
+msg:        'Thank you for purchasing Salemcash Token! SCS is committed to improving communities.' 
+},  ]
